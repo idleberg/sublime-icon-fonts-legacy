@@ -4,5 +4,5 @@
 <${1:span} class="glyphicons glyphicons-bitcoin$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-bitcoin</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

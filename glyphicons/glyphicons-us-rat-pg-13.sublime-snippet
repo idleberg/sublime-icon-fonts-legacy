@@ -4,5 +4,5 @@
 <${1:span} class="glyphicons glyphicons-us-rat-pg-13$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-us-rat-pg-13</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

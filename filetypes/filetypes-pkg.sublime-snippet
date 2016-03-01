@@ -4,5 +4,5 @@
 <${1:span} class="filetypes filetypes-pkg$2"></${1:span}>
 ]]></content>
   <tabTrigger>filetypes-pkg</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

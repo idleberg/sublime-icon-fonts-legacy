@@ -4,5 +4,5 @@
 <${1:span} class="glyphicons glyphicons-resize-small$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-resize-small</tabTrigger>
-  <scope>text.html -text.html.markdown</scope>
+  <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
