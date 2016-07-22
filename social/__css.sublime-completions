@@ -1,0 +1,281 @@
+{
+  "scope": "source.css, source.less, source.scss, source.stylus",
+  "completions": [
+    {
+      "trigger": "social-amazon\tcontent",
+      "contents": "'\\\\E008'"
+    },
+    {
+      "trigger": "social-android\tcontent",
+      "contents": "'\\\\E049'"
+    },
+    {
+      "trigger": "social-apple\tcontent",
+      "contents": "'\\\\E044'"
+    },
+    {
+      "trigger": "social-badoo\tcontent",
+      "contents": "'\\\\E027'"
+    },
+    {
+      "trigger": "social-behance\tcontent",
+      "contents": "'\\\\E021'"
+    },
+    {
+      "trigger": "social-bitbucket\tcontent",
+      "contents": "'\\\\E061'"
+    },
+    {
+      "trigger": "social-blogger\tcontent",
+      "contents": "'\\\\E006'"
+    },
+    {
+      "trigger": "social-buffer\tcontent",
+      "contents": "'\\\\E063'"
+    },
+    {
+      "trigger": "social-deviantart\tcontent",
+      "contents": "'\\\\E016'"
+    },
+    {
+      "trigger": "social-dribbble\tcontent",
+      "contents": "'\\\\E015'"
+    },
+    {
+      "trigger": "social-dropbox\tcontent",
+      "contents": "'\\\\E002'"
+    },
+    {
+      "trigger": "social-e-mail-envelope\tcontent",
+      "contents": "'\\\\E014'"
+    },
+    {
+      "trigger": "social-e-mail\tcontent",
+      "contents": "'\\\\E040'"
+    },
+    {
+      "trigger": "social-ebay\tcontent",
+      "contents": "'\\\\E060'"
+    },
+    {
+      "trigger": "social-etsy\tcontent",
+      "contents": "'\\\\E069'"
+    },
+    {
+      "trigger": "social-evernote\tcontent",
+      "contents": "'\\\\E012'"
+    },
+    {
+      "trigger": "social-facebook\tcontent",
+      "contents": "'\\\\E031'"
+    },
+    {
+      "trigger": "social-flickr\tcontent",
+      "contents": "'\\\\E036'"
+    },
+    {
+      "trigger": "social-foursquare\tcontent",
+      "contents": "'\\\\E025'"
+    },
+    {
+      "trigger": "social-github\tcontent",
+      "contents": "'\\\\E022'"
+    },
+    {
+      "trigger": "social-gmail\tcontent",
+      "contents": "'\\\\E019'"
+    },
+    {
+      "trigger": "social-goodreads\tcontent",
+      "contents": "'\\\\E043'"
+    },
+    {
+      "trigger": "social-google-drive\tcontent",
+      "contents": "'\\\\E058'"
+    },
+    {
+      "trigger": "social-google-plus\tcontent",
+      "contents": "'\\\\E003'"
+    },
+    {
+      "trigger": "social-instagram\tcontent",
+      "contents": "'\\\\E033'"
+    },
+    {
+      "trigger": "social-instapaper\tcontent",
+      "contents": "'\\\\E011'"
+    },
+    {
+      "trigger": "social-ios\tcontent",
+      "contents": "'\\\\E050'"
+    },
+    {
+      "trigger": "social-jolicloud\tcontent",
+      "contents": "'\\\\E004'"
+    },
+    {
+      "trigger": "social-last-fm\tcontent",
+      "contents": "'\\\\E037'"
+    },
+    {
+      "trigger": "social-linked-in\tcontent",
+      "contents": "'\\\\E018'"
+    },
+    {
+      "trigger": "social-linux-foundation\tcontent",
+      "contents": "'\\\\E059'"
+    },
+    {
+      "trigger": "social-linux\tcontent",
+      "contents": "'\\\\E066'"
+    },
+    {
+      "trigger": "social-medium\tcontent",
+      "contents": "'\\\\E064'"
+    },
+    {
+      "trigger": "social-myspace\tcontent",
+      "contents": "'\\\\E042'"
+    },
+    {
+      "trigger": "social-netflix\tcontent",
+      "contents": "'\\\\E056'"
+    },
+    {
+      "trigger": "social-open-id\tcontent",
+      "contents": "'\\\\E024'"
+    },
+    {
+      "trigger": "social-paypal\tcontent",
+      "contents": "'\\\\E057'"
+    },
+    {
+      "trigger": "social-picasa\tcontent",
+      "contents": "'\\\\E007'"
+    },
+    {
+      "trigger": "social-pinboard\tcontent",
+      "contents": "'\\\\E020'"
+    },
+    {
+      "trigger": "social-playstation\tcontent",
+      "contents": "'\\\\E047'"
+    },
+    {
+      "trigger": "social-pocket\tcontent",
+      "contents": "'\\\\E052'"
+    },
+    {
+      "trigger": "social-posterous-spaces\tcontent",
+      "contents": "'\\\\E034'"
+    },
+    {
+      "trigger": "social-quora\tcontent",
+      "contents": "'\\\\E026'"
+    },
+    {
+      "trigger": "social-read-it-later\tcontent",
+      "contents": "'\\\\E017'"
+    },
+    {
+      "trigger": "social-readability\tcontent",
+      "contents": "'\\\\E030'"
+    },
+    {
+      "trigger": "social-rss\tcontent",
+      "contents": "'\\\\E038'"
+    },
+    {
+      "trigger": "social-skype\tcontent",
+      "contents": "'\\\\E039'"
+    },
+    {
+      "trigger": "social-slideshare\tcontent",
+      "contents": "'\\\\E055'"
+    },
+    {
+      "trigger": "social-snapchat\tcontent",
+      "contents": "'\\\\E068'"
+    },
+    {
+      "trigger": "social-soundcloud\tcontent",
+      "contents": "'\\\\E054'"
+    },
+    {
+      "trigger": "social-spotify\tcontent",
+      "contents": "'\\\\E028'"
+    },
+    {
+      "trigger": "social-stackexchange\tcontent",
+      "contents": "'\\\\E070'"
+    },
+    {
+      "trigger": "social-stackoverflow\tcontent",
+      "contents": "'\\\\E065'"
+    },
+    {
+      "trigger": "social-steam\tcontent",
+      "contents": "'\\\\E053'"
+    },
+    {
+      "trigger": "social-stumbleupon\tcontent",
+      "contents": "'\\\\E029'"
+    },
+    {
+      "trigger": "social-tumblr\tcontent",
+      "contents": "'\\\\E009'"
+    },
+    {
+      "trigger": "social-twitter\tcontent",
+      "contents": "'\\\\E032'"
+    },
+    {
+      "trigger": "social-vimeo\tcontent",
+      "contents": "'\\\\E035'"
+    },
+    {
+      "trigger": "social-vine\tcontent",
+      "contents": "'\\\\E041'"
+    },
+    {
+      "trigger": "social-vk\tcontent",
+      "contents": "'\\\\E067'"
+    },
+    {
+      "trigger": "social-whatsapp\tcontent",
+      "contents": "'\\\\E062'"
+    },
+    {
+      "trigger": "social-wikipedia\tcontent",
+      "contents": "'\\\\E051'"
+    },
+    {
+      "trigger": "social-windows\tcontent",
+      "contents": "'\\\\E045'"
+    },
+    {
+      "trigger": "social-wordpress\tcontent",
+      "contents": "'\\\\E010'"
+    },
+    {
+      "trigger": "social-xbox\tcontent",
+      "contents": "'\\\\E048'"
+    },
+    {
+      "trigger": "social-xing\tcontent",
+      "contents": "'\\\\E013'"
+    },
+    {
+      "trigger": "social-yahoo\tcontent",
+      "contents": "'\\\\E005'"
+    },
+    {
+      "trigger": "social-yelp\tcontent",
+      "contents": "'\\\\E046'"
+    },
+    {
+      "trigger": "social-youtube\tcontent",
+      "contents": "'\\\\E023'"
+    }
+  ]
+}

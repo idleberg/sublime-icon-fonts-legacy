@@ -1,0 +1,1201 @@
+{
+  "scope": "source.css, source.less, source.scss, source.stylus",
+  "completions": [
+    {
+      "trigger": "halflings-adjust\tcontent",
+      "contents": "'\\\\E063'"
+    },
+    {
+      "trigger": "halflings-alert\tcontent",
+      "contents": "'\\\\E209'"
+    },
+    {
+      "trigger": "halflings-align-center\tcontent",
+      "contents": "'\\\\E053'"
+    },
+    {
+      "trigger": "halflings-align-justify\tcontent",
+      "contents": "'\\\\E055'"
+    },
+    {
+      "trigger": "halflings-align-left\tcontent",
+      "contents": "'\\\\E052'"
+    },
+    {
+      "trigger": "halflings-align-right\tcontent",
+      "contents": "'\\\\E054'"
+    },
+    {
+      "trigger": "halflings-apple\tcontent",
+      "contents": "'\\\\E220'"
+    },
+    {
+      "trigger": "halflings-arrow-down\tcontent",
+      "contents": "'\\\\E094'"
+    },
+    {
+      "trigger": "halflings-arrow-left\tcontent",
+      "contents": "'\\\\E091'"
+    },
+    {
+      "trigger": "halflings-arrow-right\tcontent",
+      "contents": "'\\\\E092'"
+    },
+    {
+      "trigger": "halflings-arrow-up\tcontent",
+      "contents": "'\\\\E093'"
+    },
+    {
+      "trigger": "halflings-asterisk\tcontent",
+      "contents": "'\\\\E100'"
+    },
+    {
+      "trigger": "halflings-baby-formula\tcontent",
+      "contents": "'\\\\E216'"
+    },
+    {
+      "trigger": "halflings-backward\tcontent",
+      "contents": "'\\\\E071'"
+    },
+    {
+      "trigger": "halflings-ban-circle\tcontent",
+      "contents": "'\\\\E090'"
+    },
+    {
+      "trigger": "halflings-barcode\tcontent",
+      "contents": "'\\\\E040'"
+    },
+    {
+      "trigger": "halflings-battery-10\tcontent",
+      "contents": "'\\\\E292'"
+    },
+    {
+      "trigger": "halflings-battery-25\tcontent",
+      "contents": "'\\\\E291'"
+    },
+    {
+      "trigger": "halflings-battery-50\tcontent",
+      "contents": "'\\\\E290'"
+    },
+    {
+      "trigger": "halflings-battery-75\tcontent",
+      "contents": "'\\\\E289'"
+    },
+    {
+      "trigger": "halflings-battery-charging\tcontent",
+      "contents": "'\\\\E287'"
+    },
+    {
+      "trigger": "halflings-battery-full\tcontent",
+      "contents": "'\\\\E288'"
+    },
+    {
+      "trigger": "halflings-bed\tcontent",
+      "contents": "'\\\\E219'"
+    },
+    {
+      "trigger": "halflings-bell\tcontent",
+      "contents": "'\\\\E123'"
+    },
+    {
+      "trigger": "halflings-bishop\tcontent",
+      "contents": "'\\\\E214'"
+    },
+    {
+      "trigger": "halflings-bitcoin\tcontent",
+      "contents": "'\\\\E227'"
+    },
+    {
+      "trigger": "halflings-blackboard\tcontent",
+      "contents": "'\\\\E218'"
+    },
+    {
+      "trigger": "halflings-bold\tcontent",
+      "contents": "'\\\\E048'"
+    },
+    {
+      "trigger": "halflings-book\tcontent",
+      "contents": "'\\\\E043'"
+    },
+    {
+      "trigger": "halflings-bookmark\tcontent",
+      "contents": "'\\\\E044'"
+    },
+    {
+      "trigger": "halflings-briefcase\tcontent",
+      "contents": "'\\\\E139'"
+    },
+    {
+      "trigger": "halflings-bug\tcontent",
+      "contents": "'\\\\E281'"
+    },
+    {
+      "trigger": "halflings-building\tcontent",
+      "contents": "'\\\\E261'"
+    },
+    {
+      "trigger": "halflings-bullhorn\tcontent",
+      "contents": "'\\\\E122'"
+    },
+    {
+      "trigger": "halflings-calendar\tcontent",
+      "contents": "'\\\\E109'"
+    },
+    {
+      "trigger": "halflings-camera\tcontent",
+      "contents": "'\\\\E046'"
+    },
+    {
+      "trigger": "halflings-cd\tcontent",
+      "contents": "'\\\\E201'"
+    },
+    {
+      "trigger": "halflings-certificate\tcontent",
+      "contents": "'\\\\E124'"
+    },
+    {
+      "trigger": "halflings-check\tcontent",
+      "contents": "'\\\\E067'"
+    },
+    {
+      "trigger": "halflings-chevron-down\tcontent",
+      "contents": "'\\\\E114'"
+    },
+    {
+      "trigger": "halflings-chevron-left\tcontent",
+      "contents": "'\\\\E079'"
+    },
+    {
+      "trigger": "halflings-chevron-right\tcontent",
+      "contents": "'\\\\E080'"
+    },
+    {
+      "trigger": "halflings-chevron-up\tcontent",
+      "contents": "'\\\\E113'"
+    },
+    {
+      "trigger": "halflings-circle-arrow-down\tcontent",
+      "contents": "'\\\\E134'"
+    },
+    {
+      "trigger": "halflings-circle-arrow-left\tcontent",
+      "contents": "'\\\\E132'"
+    },
+    {
+      "trigger": "halflings-circle-arrow-right\tcontent",
+      "contents": "'\\\\E131'"
+    },
+    {
+      "trigger": "halflings-circle-arrow-top\tcontent",
+      "contents": "'\\\\E133'"
+    },
+    {
+      "trigger": "halflings-cloud-download\tcontent",
+      "contents": "'\\\\E197'"
+    },
+    {
+      "trigger": "halflings-cloud-upload\tcontent",
+      "contents": "'\\\\E198'"
+    },
+    {
+      "trigger": "halflings-cloud\tcontent",
+      "contents": "'\\\\E196'"
+    },
+    {
+      "trigger": "halflings-coffee-cup\tcontent",
+      "contents": "'\\\\E278'"
+    },
+    {
+      "trigger": "halflings-cog\tcontent",
+      "contents": "'\\\\E019'"
+    },
+    {
+      "trigger": "halflings-collapse-top\tcontent",
+      "contents": "'\\\\E160'"
+    },
+    {
+      "trigger": "halflings-collapse\tcontent",
+      "contents": "'\\\\E159'"
+    },
+    {
+      "trigger": "halflings-comments\tcontent",
+      "contents": "'\\\\E111'"
+    },
+    {
+      "trigger": "halflings-compressed\tcontent",
+      "contents": "'\\\\E181'"
+    },
+    {
+      "trigger": "halflings-copy\tcontent",
+      "contents": "'\\\\E205'"
+    },
+    {
+      "trigger": "halflings-copyright-mark\tcontent",
+      "contents": "'\\\\E194'"
+    },
+    {
+      "trigger": "halflings-credit-card\tcontent",
+      "contents": "'\\\\E177'"
+    },
+    {
+      "trigger": "halflings-cutlery\tcontent",
+      "contents": "'\\\\E179'"
+    },
+    {
+      "trigger": "halflings-dashboard\tcontent",
+      "contents": "'\\\\E141'"
+    },
+    {
+      "trigger": "halflings-direction-down\tcontent",
+      "contents": "'\\\\E275'"
+    },
+    {
+      "trigger": "halflings-direction-left\tcontent",
+      "contents": "'\\\\E274'"
+    },
+    {
+      "trigger": "halflings-direction-right\tcontent",
+      "contents": "'\\\\E273'"
+    },
+    {
+      "trigger": "halflings-direction-up\tcontent",
+      "contents": "'\\\\E276'"
+    },
+    {
+      "trigger": "halflings-direction\tcontent",
+      "contents": "'\\\\E283'"
+    },
+    {
+      "trigger": "halflings-directions\tcontent",
+      "contents": "'\\\\E265'"
+    },
+    {
+      "trigger": "halflings-display\tcontent",
+      "contents": "'\\\\E282'"
+    },
+    {
+      "trigger": "halflings-door\tcontent",
+      "contents": "'\\\\E207'"
+    },
+    {
+      "trigger": "halflings-download-alt\tcontent",
+      "contents": "'\\\\E025'"
+    },
+    {
+      "trigger": "halflings-download\tcontent",
+      "contents": "'\\\\E026'"
+    },
+    {
+      "trigger": "halflings-duplicate\tcontent",
+      "contents": "'\\\\E224'"
+    },
+    {
+      "trigger": "halflings-earphone\tcontent",
+      "contents": "'\\\\E182'"
+    },
+    {
+      "trigger": "halflings-edit\tcontent",
+      "contents": "'\\\\E065'"
+    },
+    {
+      "trigger": "halflings-education\tcontent",
+      "contents": "'\\\\E233'"
+    },
+    {
+      "trigger": "halflings-eject\tcontent",
+      "contents": "'\\\\E078'"
+    },
+    {
+      "trigger": "halflings-envelope\tcontent",
+      "contents": "'\\\\E004'"
+    },
+    {
+      "trigger": "halflings-equalizer\tcontent",
+      "contents": "'\\\\E210'"
+    },
+    {
+      "trigger": "halflings-erase\tcontent",
+      "contents": "'\\\\E221'"
+    },
+    {
+      "trigger": "halflings-euro\tcontent",
+      "contents": "'\\\\E147'"
+    },
+    {
+      "trigger": "halflings-exclamation-sign\tcontent",
+      "contents": "'\\\\E101'"
+    },
+    {
+      "trigger": "halflings-expand\tcontent",
+      "contents": "'\\\\E158'"
+    },
+    {
+      "trigger": "halflings-export\tcontent",
+      "contents": "'\\\\E170'"
+    },
+    {
+      "trigger": "halflings-eye-close\tcontent",
+      "contents": "'\\\\E106'"
+    },
+    {
+      "trigger": "halflings-eye-open\tcontent",
+      "contents": "'\\\\E105'"
+    },
+    {
+      "trigger": "halflings-facetime-video\tcontent",
+      "contents": "'\\\\E059'"
+    },
+    {
+      "trigger": "halflings-fast-backward\tcontent",
+      "contents": "'\\\\E070'"
+    },
+    {
+      "trigger": "halflings-fast-forward\tcontent",
+      "contents": "'\\\\E076'"
+    },
+    {
+      "trigger": "halflings-file\tcontent",
+      "contents": "'\\\\E022'"
+    },
+    {
+      "trigger": "halflings-film\tcontent",
+      "contents": "'\\\\E009'"
+    },
+    {
+      "trigger": "halflings-filter\tcontent",
+      "contents": "'\\\\E138'"
+    },
+    {
+      "trigger": "halflings-fire\tcontent",
+      "contents": "'\\\\E104'"
+    },
+    {
+      "trigger": "halflings-flag\tcontent",
+      "contents": "'\\\\E034'"
+    },
+    {
+      "trigger": "halflings-flash\tcontent",
+      "contents": "'\\\\E162'"
+    },
+    {
+      "trigger": "halflings-floppy-disk\tcontent",
+      "contents": "'\\\\E172'"
+    },
+    {
+      "trigger": "halflings-floppy-open\tcontent",
+      "contents": "'\\\\E176'"
+    },
+    {
+      "trigger": "halflings-floppy-remove\tcontent",
+      "contents": "'\\\\E174'"
+    },
+    {
+      "trigger": "halflings-floppy-save\tcontent",
+      "contents": "'\\\\E175'"
+    },
+    {
+      "trigger": "halflings-floppy-saved\tcontent",
+      "contents": "'\\\\E173'"
+    },
+    {
+      "trigger": "halflings-folder-close\tcontent",
+      "contents": "'\\\\E117'"
+    },
+    {
+      "trigger": "halflings-folder-open\tcontent",
+      "contents": "'\\\\E118'"
+    },
+    {
+      "trigger": "halflings-font\tcontent",
+      "contents": "'\\\\E047'"
+    },
+    {
+      "trigger": "halflings-forward\tcontent",
+      "contents": "'\\\\E075'"
+    },
+    {
+      "trigger": "halflings-fullscreen\tcontent",
+      "contents": "'\\\\E140'"
+    },
+    {
+      "trigger": "halflings-gas\tcontent",
+      "contents": "'\\\\E266'"
+    },
+    {
+      "trigger": "halflings-gbp\tcontent",
+      "contents": "'\\\\E149'"
+    },
+    {
+      "trigger": "halflings-gift\tcontent",
+      "contents": "'\\\\E102'"
+    },
+    {
+      "trigger": "halflings-glass\tcontent",
+      "contents": "'\\\\E001'"
+    },
+    {
+      "trigger": "halflings-globe\tcontent",
+      "contents": "'\\\\E135'"
+    },
+    {
+      "trigger": "halflings-grain\tcontent",
+      "contents": "'\\\\E239'"
+    },
+    {
+      "trigger": "halflings-group\tcontent",
+      "contents": "'\\\\E284'"
+    },
+    {
+      "trigger": "halflings-hand-down\tcontent",
+      "contents": "'\\\\E130'"
+    },
+    {
+      "trigger": "halflings-hand-left\tcontent",
+      "contents": "'\\\\E128'"
+    },
+    {
+      "trigger": "halflings-hand-right\tcontent",
+      "contents": "'\\\\E127'"
+    },
+    {
+      "trigger": "halflings-hand-top\tcontent",
+      "contents": "'\\\\E129'"
+    },
+    {
+      "trigger": "halflings-hash\tcontent",
+      "contents": "'\\\\E264'"
+    },
+    {
+      "trigger": "halflings-hd-video\tcontent",
+      "contents": "'\\\\E187'"
+    },
+    {
+      "trigger": "halflings-hdd\tcontent",
+      "contents": "'\\\\E121'"
+    },
+    {
+      "trigger": "halflings-header\tcontent",
+      "contents": "'\\\\E180'"
+    },
+    {
+      "trigger": "halflings-headphones\tcontent",
+      "contents": "'\\\\E035'"
+    },
+    {
+      "trigger": "halflings-heart-empty\tcontent",
+      "contents": "'\\\\E143'"
+    },
+    {
+      "trigger": "halflings-heart\tcontent",
+      "contents": "'\\\\E005'"
+    },
+    {
+      "trigger": "halflings-home\tcontent",
+      "contents": "'\\\\E021'"
+    },
+    {
+      "trigger": "halflings-hourglass\tcontent",
+      "contents": "'\\\\E222'"
+    },
+    {
+      "trigger": "halflings-ice-lolly-tasted\tcontent",
+      "contents": "'\\\\E232'"
+    },
+    {
+      "trigger": "halflings-ice-lolly\tcontent",
+      "contents": "'\\\\E231'"
+    },
+    {
+      "trigger": "halflings-import\tcontent",
+      "contents": "'\\\\E169'"
+    },
+    {
+      "trigger": "halflings-inbox\tcontent",
+      "contents": "'\\\\E028'"
+    },
+    {
+      "trigger": "halflings-indent-left\tcontent",
+      "contents": "'\\\\E057'"
+    },
+    {
+      "trigger": "halflings-indent-right\tcontent",
+      "contents": "'\\\\E058'"
+    },
+    {
+      "trigger": "halflings-info-sign\tcontent",
+      "contents": "'\\\\E086'"
+    },
+    {
+      "trigger": "halflings-italic\tcontent",
+      "contents": "'\\\\E049'"
+    },
+    {
+      "trigger": "halflings-key\tcontent",
+      "contents": "'\\\\E208'"
+    },
+    {
+      "trigger": "halflings-king\tcontent",
+      "contents": "'\\\\E211'"
+    },
+    {
+      "trigger": "halflings-knight\tcontent",
+      "contents": "'\\\\E215'"
+    },
+    {
+      "trigger": "halflings-lamp\tcontent",
+      "contents": "'\\\\E223'"
+    },
+    {
+      "trigger": "halflings-leaf\tcontent",
+      "contents": "'\\\\E103'"
+    },
+    {
+      "trigger": "halflings-level-up\tcontent",
+      "contents": "'\\\\E204'"
+    },
+    {
+      "trigger": "halflings-link\tcontent",
+      "contents": "'\\\\E144'"
+    },
+    {
+      "trigger": "halflings-list-alt\tcontent",
+      "contents": "'\\\\E032'"
+    },
+    {
+      "trigger": "halflings-list-numbered\tcontent",
+      "contents": "'\\\\E296'"
+    },
+    {
+      "trigger": "halflings-list-plus\tcontent",
+      "contents": "'\\\\E298'"
+    },
+    {
+      "trigger": "halflings-list\tcontent",
+      "contents": "'\\\\E056'"
+    },
+    {
+      "trigger": "halflings-lock\tcontent",
+      "contents": "'\\\\E033'"
+    },
+    {
+      "trigger": "halflings-log-in\tcontent",
+      "contents": "'\\\\E161'"
+    },
+    {
+      "trigger": "halflings-log-out\tcontent",
+      "contents": "'\\\\E163'"
+    },
+    {
+      "trigger": "halflings-magnet\tcontent",
+      "contents": "'\\\\E112'"
+    },
+    {
+      "trigger": "halflings-map-marker\tcontent",
+      "contents": "'\\\\E062'"
+    },
+    {
+      "trigger": "halflings-menu-down\tcontent",
+      "contents": "'\\\\E259'"
+    },
+    {
+      "trigger": "halflings-menu-hamburger\tcontent",
+      "contents": "'\\\\E236'"
+    },
+    {
+      "trigger": "halflings-menu-left\tcontent",
+      "contents": "'\\\\E257'"
+    },
+    {
+      "trigger": "halflings-menu-right\tcontent",
+      "contents": "'\\\\E258'"
+    },
+    {
+      "trigger": "halflings-menu-up\tcontent",
+      "contents": "'\\\\E260'"
+    },
+    {
+      "trigger": "halflings-minus-sign\tcontent",
+      "contents": "'\\\\E082'"
+    },
+    {
+      "trigger": "halflings-minus\tcontent",
+      "contents": "'\\\\E099'"
+    },
+    {
+      "trigger": "halflings-modal-window\tcontent",
+      "contents": "'\\\\E237'"
+    },
+    {
+      "trigger": "halflings-move-square\tcontent",
+      "contents": "'\\\\E280'"
+    },
+    {
+      "trigger": "halflings-move\tcontent",
+      "contents": "'\\\\E068'"
+    },
+    {
+      "trigger": "halflings-music\tcontent",
+      "contents": "'\\\\E002'"
+    },
+    {
+      "trigger": "halflings-new-window\tcontent",
+      "contents": "'\\\\E164'"
+    },
+    {
+      "trigger": "halflings-note-empty\tcontent",
+      "contents": "'\\\\E271'"
+    },
+    {
+      "trigger": "halflings-note\tcontent",
+      "contents": "'\\\\E272'"
+    },
+    {
+      "trigger": "halflings-object-align-bottom\tcontent",
+      "contents": "'\\\\E245'"
+    },
+    {
+      "trigger": "halflings-object-align-horizontal\tcontent",
+      "contents": "'\\\\E246'"
+    },
+    {
+      "trigger": "halflings-object-align-left\tcontent",
+      "contents": "'\\\\E247'"
+    },
+    {
+      "trigger": "halflings-object-align-right\tcontent",
+      "contents": "'\\\\E249'"
+    },
+    {
+      "trigger": "halflings-object-align-top\tcontent",
+      "contents": "'\\\\E244'"
+    },
+    {
+      "trigger": "halflings-object-align-vertical\tcontent",
+      "contents": "'\\\\E248'"
+    },
+    {
+      "trigger": "halflings-off\tcontent",
+      "contents": "'\\\\E017'"
+    },
+    {
+      "trigger": "halflings-oil\tcontent",
+      "contents": "'\\\\E238'"
+    },
+    {
+      "trigger": "halflings-ok-circle\tcontent",
+      "contents": "'\\\\E089'"
+    },
+    {
+      "trigger": "halflings-ok-sign\tcontent",
+      "contents": "'\\\\E084'"
+    },
+    {
+      "trigger": "halflings-ok\tcontent",
+      "contents": "'\\\\E013'"
+    },
+    {
+      "trigger": "halflings-open-file\tcontent",
+      "contents": "'\\\\E203'"
+    },
+    {
+      "trigger": "halflings-open\tcontent",
+      "contents": "'\\\\E167'"
+    },
+    {
+      "trigger": "halflings-option-horizontal\tcontent",
+      "contents": "'\\\\E234'"
+    },
+    {
+      "trigger": "halflings-option-vertical\tcontent",
+      "contents": "'\\\\E235'"
+    },
+    {
+      "trigger": "halflings-paired\tcontent",
+      "contents": "'\\\\E293'"
+    },
+    {
+      "trigger": "halflings-paperclip\tcontent",
+      "contents": "'\\\\E142'"
+    },
+    {
+      "trigger": "halflings-paragraph\tcontent",
+      "contents": "'\\\\E297'"
+    },
+    {
+      "trigger": "halflings-parking\tcontent",
+      "contents": "'\\\\E277'"
+    },
+    {
+      "trigger": "halflings-paste\tcontent",
+      "contents": "'\\\\E206'"
+    },
+    {
+      "trigger": "halflings-pause\tcontent",
+      "contents": "'\\\\E073'"
+    },
+    {
+      "trigger": "halflings-pawn\tcontent",
+      "contents": "'\\\\E213'"
+    },
+    {
+      "trigger": "halflings-pencil\tcontent",
+      "contents": "'\\\\E061'"
+    },
+    {
+      "trigger": "halflings-phone-alt\tcontent",
+      "contents": "'\\\\E183'"
+    },
+    {
+      "trigger": "halflings-phone\tcontent",
+      "contents": "'\\\\E145'"
+    },
+    {
+      "trigger": "halflings-picture\tcontent",
+      "contents": "'\\\\E060'"
+    },
+    {
+      "trigger": "halflings-piggy-bank\tcontent",
+      "contents": "'\\\\E225'"
+    },
+    {
+      "trigger": "halflings-plane\tcontent",
+      "contents": "'\\\\E108'"
+    },
+    {
+      "trigger": "halflings-play-circle\tcontent",
+      "contents": "'\\\\E029'"
+    },
+    {
+      "trigger": "halflings-play\tcontent",
+      "contents": "'\\\\E072'"
+    },
+    {
+      "trigger": "halflings-plus-sign\tcontent",
+      "contents": "'\\\\E081'"
+    },
+    {
+      "trigger": "halflings-plus\tcontent",
+      "contents": "'\\\\E098'"
+    },
+    {
+      "trigger": "halflings-print\tcontent",
+      "contents": "'\\\\E045'"
+    },
+    {
+      "trigger": "halflings-pushpin\tcontent",
+      "contents": "'\\\\E146'"
+    },
+    {
+      "trigger": "halflings-qrcode\tcontent",
+      "contents": "'\\\\E039'"
+    },
+    {
+      "trigger": "halflings-queen\tcontent",
+      "contents": "'\\\\E212'"
+    },
+    {
+      "trigger": "halflings-question-sign\tcontent",
+      "contents": "'\\\\E085'"
+    },
+    {
+      "trigger": "halflings-random\tcontent",
+      "contents": "'\\\\E110'"
+    },
+    {
+      "trigger": "halflings-record-empty\tcontent",
+      "contents": "'\\\\E279'"
+    },
+    {
+      "trigger": "halflings-record\tcontent",
+      "contents": "'\\\\E165'"
+    },
+    {
+      "trigger": "halflings-reflect-x\tcontent",
+      "contents": "'\\\\E286'"
+    },
+    {
+      "trigger": "halflings-reflect-y\tcontent",
+      "contents": "'\\\\E285'"
+    },
+    {
+      "trigger": "halflings-refresh\tcontent",
+      "contents": "'\\\\E031'"
+    },
+    {
+      "trigger": "halflings-registration-mark\tcontent",
+      "contents": "'\\\\E195'"
+    },
+    {
+      "trigger": "halflings-remove-circle\tcontent",
+      "contents": "'\\\\E088'"
+    },
+    {
+      "trigger": "halflings-remove-sign\tcontent",
+      "contents": "'\\\\E083'"
+    },
+    {
+      "trigger": "halflings-remove\tcontent",
+      "contents": "'\\\\E014'"
+    },
+    {
+      "trigger": "halflings-repeat\tcontent",
+      "contents": "'\\\\E030'"
+    },
+    {
+      "trigger": "halflings-resize-full\tcontent",
+      "contents": "'\\\\E096'"
+    },
+    {
+      "trigger": "halflings-resize-horizontal\tcontent",
+      "contents": "'\\\\E120'"
+    },
+    {
+      "trigger": "halflings-resize-small\tcontent",
+      "contents": "'\\\\E097'"
+    },
+    {
+      "trigger": "halflings-resize-vertical\tcontent",
+      "contents": "'\\\\E119'"
+    },
+    {
+      "trigger": "halflings-retweet\tcontent",
+      "contents": "'\\\\E115'"
+    },
+    {
+      "trigger": "halflings-road\tcontent",
+      "contents": "'\\\\E024'"
+    },
+    {
+      "trigger": "halflings-rotate-left\tcontent",
+      "contents": "'\\\\E295'"
+    },
+    {
+      "trigger": "halflings-rotate-right\tcontent",
+      "contents": "'\\\\E294'"
+    },
+    {
+      "trigger": "halflings-ruble\tcontent",
+      "contents": "'\\\\E229'"
+    },
+    {
+      "trigger": "halflings-save-file\tcontent",
+      "contents": "'\\\\E202'"
+    },
+    {
+      "trigger": "halflings-save\tcontent",
+      "contents": "'\\\\E166'"
+    },
+    {
+      "trigger": "halflings-saved\tcontent",
+      "contents": "'\\\\E168'"
+    },
+    {
+      "trigger": "halflings-scale\tcontent",
+      "contents": "'\\\\E230'"
+    },
+    {
+      "trigger": "halflings-scissors\tcontent",
+      "contents": "'\\\\E226'"
+    },
+    {
+      "trigger": "halflings-screenshot\tcontent",
+      "contents": "'\\\\E087'"
+    },
+    {
+      "trigger": "halflings-sd-video\tcontent",
+      "contents": "'\\\\E186'"
+    },
+    {
+      "trigger": "halflings-search\tcontent",
+      "contents": "'\\\\E003'"
+    },
+    {
+      "trigger": "halflings-selectbox\tcontent",
+      "contents": "'\\\\E269'"
+    },
+    {
+      "trigger": "halflings-send\tcontent",
+      "contents": "'\\\\E171'"
+    },
+    {
+      "trigger": "halflings-share-alt\tcontent",
+      "contents": "'\\\\E095'"
+    },
+    {
+      "trigger": "halflings-share\tcontent",
+      "contents": "'\\\\E066'"
+    },
+    {
+      "trigger": "halflings-shopping-cart\tcontent",
+      "contents": "'\\\\E116'"
+    },
+    {
+      "trigger": "halflings-signal\tcontent",
+      "contents": "'\\\\E018'"
+    },
+    {
+      "trigger": "halflings-snowflake\tcontent",
+      "contents": "'\\\\E267'"
+    },
+    {
+      "trigger": "halflings-sort-by-alphabet-alt\tcontent",
+      "contents": "'\\\\E152'"
+    },
+    {
+      "trigger": "halflings-sort-by-alphabet\tcontent",
+      "contents": "'\\\\E151'"
+    },
+    {
+      "trigger": "halflings-sort-by-attributes-alt\tcontent",
+      "contents": "'\\\\E156'"
+    },
+    {
+      "trigger": "halflings-sort-by-attributes\tcontent",
+      "contents": "'\\\\E155'"
+    },
+    {
+      "trigger": "halflings-sort-by-order-alt\tcontent",
+      "contents": "'\\\\E154'"
+    },
+    {
+      "trigger": "halflings-sort-by-order\tcontent",
+      "contents": "'\\\\E153'"
+    },
+    {
+      "trigger": "halflings-sort\tcontent",
+      "contents": "'\\\\E150'"
+    },
+    {
+      "trigger": "halflings-sortable\tcontent",
+      "contents": "'\\\\E270'"
+    },
+    {
+      "trigger": "halflings-sound-5-1\tcontent",
+      "contents": "'\\\\E191'"
+    },
+    {
+      "trigger": "halflings-sound-6-1\tcontent",
+      "contents": "'\\\\E192'"
+    },
+    {
+      "trigger": "halflings-sound-7-1\tcontent",
+      "contents": "'\\\\E193'"
+    },
+    {
+      "trigger": "halflings-sound-dolby\tcontent",
+      "contents": "'\\\\E190'"
+    },
+    {
+      "trigger": "halflings-sound-stereo\tcontent",
+      "contents": "'\\\\E189'"
+    },
+    {
+      "trigger": "halflings-star-empty\tcontent",
+      "contents": "'\\\\E007'"
+    },
+    {
+      "trigger": "halflings-star-half\tcontent",
+      "contents": "'\\\\E263'"
+    },
+    {
+      "trigger": "halflings-star\tcontent",
+      "contents": "'\\\\E006'"
+    },
+    {
+      "trigger": "halflings-stats\tcontent",
+      "contents": "'\\\\E185'"
+    },
+    {
+      "trigger": "halflings-step-backward\tcontent",
+      "contents": "'\\\\E069'"
+    },
+    {
+      "trigger": "halflings-step-forward\tcontent",
+      "contents": "'\\\\E077'"
+    },
+    {
+      "trigger": "halflings-stop\tcontent",
+      "contents": "'\\\\E074'"
+    },
+    {
+      "trigger": "halflings-subscript\tcontent",
+      "contents": "'\\\\E256'"
+    },
+    {
+      "trigger": "halflings-subtitles\tcontent",
+      "contents": "'\\\\E188'"
+    },
+    {
+      "trigger": "halflings-sunglasses\tcontent",
+      "contents": "'\\\\E240'"
+    },
+    {
+      "trigger": "halflings-sunlight\tcontent",
+      "contents": "'\\\\E268'"
+    },
+    {
+      "trigger": "halflings-superscript\tcontent",
+      "contents": "'\\\\E255'"
+    },
+    {
+      "trigger": "halflings-synchronization\tcontent",
+      "contents": "'\\\\E299'"
+    },
+    {
+      "trigger": "halflings-tag\tcontent",
+      "contents": "'\\\\E041'"
+    },
+    {
+      "trigger": "halflings-tags\tcontent",
+      "contents": "'\\\\E042'"
+    },
+    {
+      "trigger": "halflings-tasks\tcontent",
+      "contents": "'\\\\E137'"
+    },
+    {
+      "trigger": "halflings-tent\tcontent",
+      "contents": "'\\\\E217'"
+    },
+    {
+      "trigger": "halflings-terminal\tcontent",
+      "contents": "'\\\\E254'"
+    },
+    {
+      "trigger": "halflings-text-background\tcontent",
+      "contents": "'\\\\E243'"
+    },
+    {
+      "trigger": "halflings-text-color\tcontent",
+      "contents": "'\\\\E242'"
+    },
+    {
+      "trigger": "halflings-text-height\tcontent",
+      "contents": "'\\\\E050'"
+    },
+    {
+      "trigger": "halflings-text-size\tcontent",
+      "contents": "'\\\\E241'"
+    },
+    {
+      "trigger": "halflings-text-width\tcontent",
+      "contents": "'\\\\E051'"
+    },
+    {
+      "trigger": "halflings-th-large\tcontent",
+      "contents": "'\\\\E010'"
+    },
+    {
+      "trigger": "halflings-th-list\tcontent",
+      "contents": "'\\\\E012'"
+    },
+    {
+      "trigger": "halflings-th\tcontent",
+      "contents": "'\\\\E011'"
+    },
+    {
+      "trigger": "halflings-thumbs-down\tcontent",
+      "contents": "'\\\\E126'"
+    },
+    {
+      "trigger": "halflings-thumbs-up\tcontent",
+      "contents": "'\\\\E125'"
+    },
+    {
+      "trigger": "halflings-tick\tcontent",
+      "contents": "'\\\\E262'"
+    },
+    {
+      "trigger": "halflings-time\tcontent",
+      "contents": "'\\\\E023'"
+    },
+    {
+      "trigger": "halflings-tint\tcontent",
+      "contents": "'\\\\E064'"
+    },
+    {
+      "trigger": "halflings-tower\tcontent",
+      "contents": "'\\\\E184'"
+    },
+    {
+      "trigger": "halflings-transfer\tcontent",
+      "contents": "'\\\\E178'"
+    },
+    {
+      "trigger": "halflings-trash\tcontent",
+      "contents": "'\\\\E020'"
+    },
+    {
+      "trigger": "halflings-tree-conifer\tcontent",
+      "contents": "'\\\\E199'"
+    },
+    {
+      "trigger": "halflings-tree-deciduous\tcontent",
+      "contents": "'\\\\E200'"
+    },
+    {
+      "trigger": "halflings-triangle-bottom\tcontent",
+      "contents": "'\\\\E252'"
+    },
+    {
+      "trigger": "halflings-triangle-left\tcontent",
+      "contents": "'\\\\E251'"
+    },
+    {
+      "trigger": "halflings-triangle-right\tcontent",
+      "contents": "'\\\\E250'"
+    },
+    {
+      "trigger": "halflings-triangle-top\tcontent",
+      "contents": "'\\\\E253'"
+    },
+    {
+      "trigger": "halflings-unchecked\tcontent",
+      "contents": "'\\\\E157'"
+    },
+    {
+      "trigger": "halflings-upload\tcontent",
+      "contents": "'\\\\E027'"
+    },
+    {
+      "trigger": "halflings-usd\tcontent",
+      "contents": "'\\\\E148'"
+    },
+    {
+      "trigger": "halflings-user\tcontent",
+      "contents": "'\\\\E008'"
+    },
+    {
+      "trigger": "halflings-volume-down\tcontent",
+      "contents": "'\\\\E037'"
+    },
+    {
+      "trigger": "halflings-volume-off\tcontent",
+      "contents": "'\\\\E036'"
+    },
+    {
+      "trigger": "halflings-volume-up\tcontent",
+      "contents": "'\\\\E038'"
+    },
+    {
+      "trigger": "halflings-warning-sign\tcontent",
+      "contents": "'\\\\E107'"
+    },
+    {
+      "trigger": "halflings-wrench\tcontent",
+      "contents": "'\\\\E136'"
+    },
+    {
+      "trigger": "halflings-yen\tcontent",
+      "contents": "'\\\\E228'"
+    },
+    {
+      "trigger": "halflings-zoom-in\tcontent",
+      "contents": "'\\\\E015'"
+    },
+    {
+      "trigger": "halflings-zoom-out\tcontent",
+      "contents": "'\\\\E016'"
+    }
+  ]
+}

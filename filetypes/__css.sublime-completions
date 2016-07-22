@@ -1,0 +1,565 @@
+{
+  "scope": "source.css, source.less, source.scss, source.stylus",
+  "completions": [
+    {
+      "trigger": "filetypes-aacd\tcontent",
+      "contents": "'\\\\E076'"
+    },
+    {
+      "trigger": "filetypes-ai\tcontent",
+      "contents": "'\\\\E061'"
+    },
+    {
+      "trigger": "filetypes-aif\tcontent",
+      "contents": "'\\\\E030'"
+    },
+    {
+      "trigger": "filetypes-api\tcontent",
+      "contents": "'\\\\E134'"
+    },
+    {
+      "trigger": "filetypes-apk\tcontent",
+      "contents": "'\\\\E081'"
+    },
+    {
+      "trigger": "filetypes-app\tcontent",
+      "contents": "'\\\\E077'"
+    },
+    {
+      "trigger": "filetypes-asf\tcontent",
+      "contents": "'\\\\E041'"
+    },
+    {
+      "trigger": "filetypes-asp\tcontent",
+      "contents": "'\\\\E093'"
+    },
+    {
+      "trigger": "filetypes-aspx\tcontent",
+      "contents": "'\\\\E097'"
+    },
+    {
+      "trigger": "filetypes-asx\tcontent",
+      "contents": "'\\\\E037'"
+    },
+    {
+      "trigger": "filetypes-avi\tcontent",
+      "contents": "'\\\\E036'"
+    },
+    {
+      "trigger": "filetypes-bak\tcontent",
+      "contents": "'\\\\E124'"
+    },
+    {
+      "trigger": "filetypes-bat\tcontent",
+      "contents": "'\\\\E080'"
+    },
+    {
+      "trigger": "filetypes-bin\tcontent",
+      "contents": "'\\\\E120'"
+    },
+    {
+      "trigger": "filetypes-bmp\tcontent",
+      "contents": "'\\\\E056'"
+    },
+    {
+      "trigger": "filetypes-bpg\tcontent",
+      "contents": "'\\\\E137'"
+    },
+    {
+      "trigger": "filetypes-cbr\tcontent",
+      "contents": "'\\\\E116'"
+    },
+    {
+      "trigger": "filetypes-cer\tcontent",
+      "contents": "'\\\\E094'"
+    },
+    {
+      "trigger": "filetypes-cfg\tcontent",
+      "contents": "'\\\\E128'"
+    },
+    {
+      "trigger": "filetypes-cfm\tcontent",
+      "contents": "'\\\\E096'"
+    },
+    {
+      "trigger": "filetypes-cgi\tcontent",
+      "contents": "'\\\\E086'"
+    },
+    {
+      "trigger": "filetypes-com\tcontent",
+      "contents": "'\\\\E079'"
+    },
+    {
+      "trigger": "filetypes-csr\tcontent",
+      "contents": "'\\\\E099'"
+    },
+    {
+      "trigger": "filetypes-css\tcontent",
+      "contents": "'\\\\E087'"
+    },
+    {
+      "trigger": "filetypes-csv\tcontent",
+      "contents": "'\\\\E012'"
+    },
+    {
+      "trigger": "filetypes-cue\tcontent",
+      "contents": "'\\\\E119'"
+    },
+    {
+      "trigger": "filetypes-dat\tcontent",
+      "contents": "'\\\\E013'"
+    },
+    {
+      "trigger": "filetypes-db\tcontent",
+      "contents": "'\\\\E071'"
+    },
+    {
+      "trigger": "filetypes-dbf\tcontent",
+      "contents": "'\\\\E072'"
+    },
+    {
+      "trigger": "filetypes-dds\tcontent",
+      "contents": "'\\\\E060'"
+    },
+    {
+      "trigger": "filetypes-deb\tcontent",
+      "contents": "'\\\\E112'"
+    },
+    {
+      "trigger": "filetypes-dmg\tcontent",
+      "contents": "'\\\\E118'"
+    },
+    {
+      "trigger": "filetypes-doc\tcontent",
+      "contents": "'\\\\E002'"
+    },
+    {
+      "trigger": "filetypes-docx\tcontent",
+      "contents": "'\\\\E010'"
+    },
+    {
+      "trigger": "filetypes-e-3g2\tcontent",
+      "contents": "'\\\\E039'"
+    },
+    {
+      "trigger": "filetypes-e-3gp\tcontent",
+      "contents": "'\\\\E034'"
+    },
+    {
+      "trigger": "filetypes-e-7z\tcontent",
+      "contents": "'\\\\E113'"
+    },
+    {
+      "trigger": "filetypes-eot\tcontent",
+      "contents": "'\\\\E105'"
+    },
+    {
+      "trigger": "filetypes-eps\tcontent",
+      "contents": "'\\\\E062'"
+    },
+    {
+      "trigger": "filetypes-exe\tcontent",
+      "contents": "'\\\\E078'"
+    },
+    {
+      "trigger": "filetypes-flac\tcontent",
+      "contents": "'\\\\E138'"
+    },
+    {
+      "trigger": "filetypes-flv\tcontent",
+      "contents": "'\\\\E047'"
+    },
+    {
+      "trigger": "filetypes-fnt\tcontent",
+      "contents": "'\\\\E104'"
+    },
+    {
+      "trigger": "filetypes-font\tcontent",
+      "contents": "'\\\\E103'"
+    },
+    {
+      "trigger": "filetypes-gbr\tcontent",
+      "contents": "'\\\\E022'"
+    },
+    {
+      "trigger": "filetypes-ged\tcontent",
+      "contents": "'\\\\E023'"
+    },
+    {
+      "trigger": "filetypes-gif\tcontent",
+      "contents": "'\\\\E055'"
+    },
+    {
+      "trigger": "filetypes-gz\tcontent",
+      "contents": "'\\\\E117'"
+    },
+    {
+      "trigger": "filetypes-hdf\tcontent",
+      "contents": "'\\\\E122'"
+    },
+    {
+      "trigger": "filetypes-hsf\tcontent",
+      "contents": "'\\\\E083'"
+    },
+    {
+      "trigger": "filetypes-htm\tcontent",
+      "contents": "'\\\\E091'"
+    },
+    {
+      "trigger": "filetypes-html\tcontent",
+      "contents": "'\\\\E092'"
+    },
+    {
+      "trigger": "filetypes-ico\tcontent",
+      "contents": "'\\\\E135'"
+    },
+    {
+      "trigger": "filetypes-ics\tcontent",
+      "contents": "'\\\\E126'"
+    },
+    {
+      "trigger": "filetypes-iff\tcontent",
+      "contents": "'\\\\E029'"
+    },
+    {
+      "trigger": "filetypes-indd\tcontent",
+      "contents": "'\\\\E067'"
+    },
+    {
+      "trigger": "filetypes-ini\tcontent",
+      "contents": "'\\\\E129'"
+    },
+    {
+      "trigger": "filetypes-iso\tcontent",
+      "contents": "'\\\\E121'"
+    },
+    {
+      "trigger": "filetypes-jar\tcontent",
+      "contents": "'\\\\E082'"
+    },
+    {
+      "trigger": "filetypes-jpg\tcontent",
+      "contents": "'\\\\E052'"
+    },
+    {
+      "trigger": "filetypes-js\tcontent",
+      "contents": "'\\\\E088'"
+    },
+    {
+      "trigger": "filetypes-json\tcontent",
+      "contents": "'\\\\E131'"
+    },
+    {
+      "trigger": "filetypes-jsp\tcontent",
+      "contents": "'\\\\E095'"
+    },
+    {
+      "trigger": "filetypes-key\tcontent",
+      "contents": "'\\\\E018'"
+    },
+    {
+      "trigger": "filetypes-less\tcontent",
+      "contents": "'\\\\E100'"
+    },
+    {
+      "trigger": "filetypes-log\tcontent",
+      "contents": "'\\\\E004'"
+    },
+    {
+      "trigger": "filetypes-m3v\tcontent",
+      "contents": "'\\\\E033'"
+    },
+    {
+      "trigger": "filetypes-m4a\tcontent",
+      "contents": "'\\\\E025'"
+    },
+    {
+      "trigger": "filetypes-m4v\tcontent",
+      "contents": "'\\\\E046'"
+    },
+    {
+      "trigger": "filetypes-mdb\tcontent",
+      "contents": "'\\\\E073'"
+    },
+    {
+      "trigger": "filetypes-mid\tcontent",
+      "contents": "'\\\\E032'"
+    },
+    {
+      "trigger": "filetypes-mov\tcontent",
+      "contents": "'\\\\E044'"
+    },
+    {
+      "trigger": "filetypes-mp3\tcontent",
+      "contents": "'\\\\E024'"
+    },
+    {
+      "trigger": "filetypes-mp4\tcontent",
+      "contents": "'\\\\E038'"
+    },
+    {
+      "trigger": "filetypes-mpa\tcontent",
+      "contents": "'\\\\E028'"
+    },
+    {
+      "trigger": "filetypes-mpg\tcontent",
+      "contents": "'\\\\E040'"
+    },
+    {
+      "trigger": "filetypes-msg\tcontent",
+      "contents": "'\\\\E006'"
+    },
+    {
+      "trigger": "filetypes-msi\tcontent",
+      "contents": "'\\\\E127'"
+    },
+    {
+      "trigger": "filetypes-ogg\tcontent",
+      "contents": "'\\\\E139'"
+    },
+    {
+      "trigger": "filetypes-otf\tcontent",
+      "contents": "'\\\\E101'"
+    },
+    {
+      "trigger": "filetypes-page\tcontent",
+      "contents": "'\\\\E011'"
+    },
+    {
+      "trigger": "filetypes-pct\tcontent",
+      "contents": "'\\\\E066'"
+    },
+    {
+      "trigger": "filetypes-pdb\tcontent",
+      "contents": "'\\\\E074'"
+    },
+    {
+      "trigger": "filetypes-pdf\tcontent",
+      "contents": "'\\\\E065'"
+    },
+    {
+      "trigger": "filetypes-php\tcontent",
+      "contents": "'\\\\E089'"
+    },
+    {
+      "trigger": "filetypes-pif\tcontent",
+      "contents": "'\\\\E084'"
+    },
+    {
+      "trigger": "filetypes-pkg\tcontent",
+      "contents": "'\\\\E114'"
+    },
+    {
+      "trigger": "filetypes-png\tcontent",
+      "contents": "'\\\\E049'"
+    },
+    {
+      "trigger": "filetypes-pps\tcontent",
+      "contents": "'\\\\E017'"
+    },
+    {
+      "trigger": "filetypes-ppt\tcontent",
+      "contents": "'\\\\E019'"
+    },
+    {
+      "trigger": "filetypes-pptx\tcontent",
+      "contents": "'\\\\E020'"
+    },
+    {
+      "trigger": "filetypes-prf\tcontent",
+      "contents": "'\\\\E130'"
+    },
+    {
+      "trigger": "filetypes-ps\tcontent",
+      "contents": "'\\\\E063'"
+    },
+    {
+      "trigger": "filetypes-psd\tcontent",
+      "contents": "'\\\\E050'"
+    },
+    {
+      "trigger": "filetypes-psp\tcontent",
+      "contents": "'\\\\E051'"
+    },
+    {
+      "trigger": "filetypes-ra\tcontent",
+      "contents": "'\\\\E031'"
+    },
+    {
+      "trigger": "filetypes-rar\tcontent",
+      "contents": "'\\\\E109'"
+    },
+    {
+      "trigger": "filetypes-rm\tcontent",
+      "contents": "'\\\\E048'"
+    },
+    {
+      "trigger": "filetypes-rpm\tcontent",
+      "contents": "'\\\\E115'"
+    },
+    {
+      "trigger": "filetypes-rss\tcontent",
+      "contents": "'\\\\E098'"
+    },
+    {
+      "trigger": "filetypes-rtf\tcontent",
+      "contents": "'\\\\E003'"
+    },
+    {
+      "trigger": "filetypes-sdf\tcontent",
+      "contents": "'\\\\E021'"
+    },
+    {
+      "trigger": "filetypes-site\tcontent",
+      "contents": "'\\\\E132'"
+    },
+    {
+      "trigger": "filetypes-sitx\tcontent",
+      "contents": "'\\\\E111'"
+    },
+    {
+      "trigger": "filetypes-sql\tcontent",
+      "contents": "'\\\\E075'"
+    },
+    {
+      "trigger": "filetypes-srt\tcontent",
+      "contents": "'\\\\E045'"
+    },
+    {
+      "trigger": "filetypes-svg\tcontent",
+      "contents": "'\\\\E064'"
+    },
+    {
+      "trigger": "filetypes-swf\tcontent",
+      "contents": "'\\\\E035'"
+    },
+    {
+      "trigger": "filetypes-tar\tcontent",
+      "contents": "'\\\\E014'"
+    },
+    {
+      "trigger": "filetypes-targ\tcontent",
+      "contents": "'\\\\E110'"
+    },
+    {
+      "trigger": "filetypes-tex\tcontent",
+      "contents": "'\\\\E005'"
+    },
+    {
+      "trigger": "filetypes-text\tcontent",
+      "contents": "'\\\\E007'"
+    },
+    {
+      "trigger": "filetypes-tga\tcontent",
+      "contents": "'\\\\E057'"
+    },
+    {
+      "trigger": "filetypes-thm\tcontent",
+      "contents": "'\\\\E058'"
+    },
+    {
+      "trigger": "filetypes-tif\tcontent",
+      "contents": "'\\\\E053'"
+    },
+    {
+      "trigger": "filetypes-tiff\tcontent",
+      "contents": "'\\\\E054'"
+    },
+    {
+      "trigger": "filetypes-tmp\tcontent",
+      "contents": "'\\\\E125'"
+    },
+    {
+      "trigger": "filetypes-ttf\tcontent",
+      "contents": "'\\\\E102'"
+    },
+    {
+      "trigger": "filetypes-txt\tcontent",
+      "contents": "'\\\\E001'"
+    },
+    {
+      "trigger": "filetypes-unknown\tcontent",
+      "contents": "'\\\\E140'"
+    },
+    {
+      "trigger": "filetypes-vb\tcontent",
+      "contents": "'\\\\E085'"
+    },
+    {
+      "trigger": "filetypes-vcd\tcontent",
+      "contents": "'\\\\E123'"
+    },
+    {
+      "trigger": "filetypes-vcf\tcontent",
+      "contents": "'\\\\E016'"
+    },
+    {
+      "trigger": "filetypes-vob\tcontent",
+      "contents": "'\\\\E042'"
+    },
+    {
+      "trigger": "filetypes-waw\tcontent",
+      "contents": "'\\\\E026'"
+    },
+    {
+      "trigger": "filetypes-webp\tcontent",
+      "contents": "'\\\\E136'"
+    },
+    {
+      "trigger": "filetypes-wma\tcontent",
+      "contents": "'\\\\E027'"
+    },
+    {
+      "trigger": "filetypes-wmv\tcontent",
+      "contents": "'\\\\E043'"
+    },
+    {
+      "trigger": "filetypes-woff\tcontent",
+      "contents": "'\\\\E106'"
+    },
+    {
+      "trigger": "filetypes-wpd\tcontent",
+      "contents": "'\\\\E008'"
+    },
+    {
+      "trigger": "filetypes-wps\tcontent",
+      "contents": "'\\\\E009'"
+    },
+    {
+      "trigger": "filetypes-xap\tcontent",
+      "contents": "'\\\\E133'"
+    },
+    {
+      "trigger": "filetypes-xhtml\tcontent",
+      "contents": "'\\\\E090'"
+    },
+    {
+      "trigger": "filetypes-xlr\tcontent",
+      "contents": "'\\\\E068'"
+    },
+    {
+      "trigger": "filetypes-xls\tcontent",
+      "contents": "'\\\\E069'"
+    },
+    {
+      "trigger": "filetypes-xlsx\tcontent",
+      "contents": "'\\\\E070'"
+    },
+    {
+      "trigger": "filetypes-xml\tcontent",
+      "contents": "'\\\\E015'"
+    },
+    {
+      "trigger": "filetypes-yuv\tcontent",
+      "contents": "'\\\\E059'"
+    },
+    {
+      "trigger": "filetypes-zip\tcontent",
+      "contents": "'\\\\E107'"
+    },
+    {
+      "trigger": "filetypes-zipx\tcontent",
+      "contents": "'\\\\E108'"
+    }
+  ]
+}
