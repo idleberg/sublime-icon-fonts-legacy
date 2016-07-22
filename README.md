@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-icon-fonts-legacy.svg?style=flat-square)](https://github.com/idleberg/sublime-icon-fonts-legacy/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-icon-fonts-legacy)
 
-Atom snippets for all icon fonts that have been removed from the [main package](https://packagecontrol.io/packages/Icon%20Fonts) ([see details](#prefixes)).
+Sublime Text snippets for all icon fonts that have been removed from the [main package](https://packagecontrol.io/packages/Icon%20Fonts) ([see details](#prefixes)).
 
 ## Installation
 
