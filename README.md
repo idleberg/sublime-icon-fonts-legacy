@@ -55,5 +55,5 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
-[line]: http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website
+[line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
 [social]: http://glyphicons.com
