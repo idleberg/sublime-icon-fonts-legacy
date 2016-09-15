@@ -7,6 +7,8 @@
 
 Sublime Text snippets for all icon fonts that have been removed from the [main package](https://packagecontrol.io/packages/Icon%20Fonts) ([see details](#prefixes)).
 
+This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts-legacy) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts-legacy).
+
 ## Installation
 
 ### Package Control
