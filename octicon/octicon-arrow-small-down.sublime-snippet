@@ -1,0 +1,8 @@
+<!-- http://github.com/idleberg/sublime-tinkertools -->
+<snippet>
+  <content><![CDATA[
+<${1:span} class="octicon octicon-arrow-small-down$2"></${1:span}>
+]]></content>
+  <tabTrigger>octicon4-arrow-small-down</tabTrigger>
+  <scope>source.js, text.html -text.html.markdown</scope>
+</snippet>
