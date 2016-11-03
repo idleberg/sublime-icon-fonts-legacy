@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-alignment-aligned-to$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-alignment-aligned-to</tabTrigger>
+  <tabTrigger>octicon-alignment-aligned-to</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

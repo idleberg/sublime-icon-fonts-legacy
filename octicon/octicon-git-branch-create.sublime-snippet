@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-git-branch-create$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-git-branch-create</tabTrigger>
+  <tabTrigger>octicon-git-branch-create</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-mirror-private$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-mirror-private</tabTrigger>
+  <tabTrigger>octicon-mirror-private</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

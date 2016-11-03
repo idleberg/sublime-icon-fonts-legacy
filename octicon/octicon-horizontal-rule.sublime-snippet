@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-horizontal-rule$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-horizontal-rule</tabTrigger>
+  <tabTrigger>octicon-horizontal-rule</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

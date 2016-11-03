@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-light-bulb$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-light-bulb</tabTrigger>
+  <tabTrigger>octicon-light-bulb</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

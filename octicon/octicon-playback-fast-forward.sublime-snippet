@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-playback-fast-forward$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-playback-fast-forward</tabTrigger>
+  <tabTrigger>octicon-playback-fast-forward</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

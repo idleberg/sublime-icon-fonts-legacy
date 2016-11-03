@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-cloud-download$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-cloud-download</tabTrigger>
+  <tabTrigger>octicon-cloud-download</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

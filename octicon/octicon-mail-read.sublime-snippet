@@ -3,6 +3,7 @@
   <content><![CDATA[
 <${1:span} class="octicon octicon-mail-read$2"></${1:span}>
 ]]></content>
-  <tabTrigger>octicon4-mail-read</tabTrigger>
+  <tabTrigger>octicon-mail-read</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
