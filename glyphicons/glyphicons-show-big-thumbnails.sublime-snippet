@@ -4,5 +4,6 @@
 <${1:span} class="glyphicons glyphicons-show-big-thumbnails$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-show-big-thumbnails</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="social social-instapaper$2"><//${1:span}>
 ]]></content>
   <tabTrigger>social-instapaper</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

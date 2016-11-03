@@ -4,5 +4,6 @@
 <${1:span} class="filetypes filetypes-m3v$2"></${1:span}>
 ]]></content>
   <tabTrigger>filetypes-m3v</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -4,5 +4,6 @@
 <${1:span} class="glyphicons glyphicons-erase$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-erase</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

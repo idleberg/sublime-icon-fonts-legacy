@@ -4,5 +4,6 @@
 <${1:span} class="glyphicons glyphicons-ipod-shuffle$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-ipod-shuffle</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

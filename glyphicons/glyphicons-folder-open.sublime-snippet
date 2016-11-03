@@ -4,5 +4,6 @@
 <${1:span} class="glyphicons glyphicons-folder-open$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-folder-open</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

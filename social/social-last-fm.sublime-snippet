@@ -4,5 +4,6 @@
 <${1:span} class="social social-last-fm$2"><//${1:span}>
 ]]></content>
   <tabTrigger>social-last-fm</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

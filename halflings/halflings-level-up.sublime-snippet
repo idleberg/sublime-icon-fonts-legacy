@@ -4,5 +4,6 @@
 <${1:span} class="halflings halflings-level-up$2"></${1:span}>
 ]]></content>
   <tabTrigger>halflings-level-up</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

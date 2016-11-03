@@ -4,5 +4,6 @@
 <${1:span} class="glyphicons glyphicons-scissors-alt$3"></${1:span}>
 ]]></content>
   <tabTrigger>glyphicons-scissors-alt</tabTrigger>
+  <description>&lt;span&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
