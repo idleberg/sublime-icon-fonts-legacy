@@ -4,5 +4,6 @@
 <${1:span} class="icon-megaphone$2"><//${1:span}>
 ]]></content>
   <tabTrigger>line-icon-megaphone-class</tabTrigger>
+  <description>&lt;span class&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
