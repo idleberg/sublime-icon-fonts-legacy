@@ -37,7 +37,6 @@ Prefix         | Icon Font                           | Version
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
 `line`         | [Elegant Theme Line Icons][line]    | –
-`octicon`      | [GitHub Octicons][octicon]          | 4.1.0
 `social`       | [Glyphicons Social][social]         | 1.9.0
 
 Examples:
@@ -59,5 +58,4 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
 [line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
-[octicon]: https://github.com/primer/octicons/tree/v4.1.0
 [social]: http://glyphicons.com
