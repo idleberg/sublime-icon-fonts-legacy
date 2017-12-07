@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-sort-amount-desc$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-sort-amount-desc</tabTrigger>
+  <tabTrigger>fa-sort-amount-desc</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

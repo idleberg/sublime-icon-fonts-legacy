@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-link$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-link</tabTrigger>
+  <tabTrigger>fa-link</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-wpforms$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-wpforms</tabTrigger>
+  <tabTrigger>fa-wpforms</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

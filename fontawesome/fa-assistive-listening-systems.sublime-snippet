@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-assistive-listening-systems$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-assistive-listening-systems</tabTrigger>
+  <tabTrigger>fa-assistive-listening-systems</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

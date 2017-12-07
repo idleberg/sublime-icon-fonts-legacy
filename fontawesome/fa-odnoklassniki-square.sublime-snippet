@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-odnoklassniki-square$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-odnoklassniki-square</tabTrigger>
+  <tabTrigger>fa-odnoklassniki-square</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

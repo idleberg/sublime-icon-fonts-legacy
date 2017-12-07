@@ -4,7 +4,7 @@
 	$1
 </ul>
 ]]></content>
-	<tabTrigger>fa4-ul</tabTrigger>
+	<tabTrigger>fa-ul</tabTrigger>
   <description>&lt;ul&gt;</description>
 	<description>Tag</description>
 	<scope>source.js, text.html -text.html.markdown</scope>

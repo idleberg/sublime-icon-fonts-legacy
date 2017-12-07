@@ -32,7 +32,7 @@ Typing the class name of an icon will complete to a tag containing the icon's cl
 
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
-`fa4`          | [Font Awesome][fontawesome]         | 4.7.0
+`fa`           | [Font Awesome][fontawesome]         | 4.7.0
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0

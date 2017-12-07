@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-steam$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-steam</tabTrigger>
+  <tabTrigger>fa-steam</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

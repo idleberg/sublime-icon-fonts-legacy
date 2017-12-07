@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-quote-right$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-quote-right</tabTrigger>
+  <tabTrigger>fa-quote-right</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

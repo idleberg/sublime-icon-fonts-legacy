@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-creative-commons$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-creative-commons</tabTrigger>
+  <tabTrigger>fa-creative-commons</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

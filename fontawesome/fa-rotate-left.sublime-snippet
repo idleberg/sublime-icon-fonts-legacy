@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-rotate-left$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-rotate-left</tabTrigger>
+  <tabTrigger>fa-rotate-left</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

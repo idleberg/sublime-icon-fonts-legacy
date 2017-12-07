@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-get-pocket$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-get-pocket</tabTrigger>
+  <tabTrigger>fa-get-pocket</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>

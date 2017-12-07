@@ -3,7 +3,7 @@
   <content><![CDATA[
 <${1:i} class="fa fa-bluetooth$2"></${1:i}>
 ]]></content>
-  <tabTrigger>fa4-bluetooth</tabTrigger>
+  <tabTrigger>fa-bluetooth</tabTrigger>
   <description>&lt;i&gt;</description>
   <scope>source.js, text.html -text.html.markdown</scope>
 </snippet>
