@@ -32,6 +32,7 @@ Typing the class name of an icon will complete to a tag containing the icon's cl
 
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
+`fa4`          | [Font Awesome][fontawesome]         | 4.7.0
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
@@ -54,6 +55,7 @@ This work is licensed under the [The MIT License](LICENSE).
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-icon-fonts-legacy) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [filetypes]: http://glyphicons.com
+[fontawesome]: https://fontawesome.com/
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
