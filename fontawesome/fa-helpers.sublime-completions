@@ -14,5 +14,5 @@
       "trigger": "fa-li\t<li>"
     }
   ],
-  "scope": "source.js, text.html -text.html.markdown"
+  "scope": "source.js, source.svelte, text.html -text.html.markdown"
 }

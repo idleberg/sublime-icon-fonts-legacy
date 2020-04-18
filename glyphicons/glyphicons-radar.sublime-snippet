@@ -5,5 +5,5 @@
 ]]></content>
   <tabTrigger>glyphicons-radar</tabTrigger>
   <description>&lt;span&gt;</description>
-  <scope>source.js, text.html -text.html.markdown</scope>
+  <scope>source.js, source.svelte, text.html -text.html.markdown</scope>
 </snippet>
