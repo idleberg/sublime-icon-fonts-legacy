@@ -50,10 +50,6 @@ Examples:
 
 This work is licensed under the [The MIT License](LICENSE).
 
-## Donate
-
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-icon-fonts-legacy) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
 [filetypes]: http://glyphicons.com
 [fontawesome]: https://fontawesome.com/
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
