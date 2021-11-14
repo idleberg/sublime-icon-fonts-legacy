@@ -56,12 +56,16 @@ Examples:
 
 This work is licensed under the [The MIT License](LICENSE).
 
+[brandico]: https://github.com/fontello/brandico.font
 [fi]: https://github.com/zurb/foundation-icons
 [filetypes]: http://glyphicons.com
-[fontawesome]: https://fontawesome.com/
+[fontawesome]: https://fontawesome.com
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
 [geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
+[icofont]: http://icofont.com/
 [line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
+[ratchicon]: http://github.com/twbs/ratchet
 [social]: http://glyphicons.com
+[ui]: http://semantic-ui.com/elements/icon.html
